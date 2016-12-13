@@ -23,6 +23,7 @@ apt_packages:
   - xauth
   - libcurl4-openssl-dev
   - curl
+  - scatterplot3d
 
 r_github_packages:
   - hadley/devtools
